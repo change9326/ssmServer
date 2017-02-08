@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="ognl-3.1.12">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/ognl-3.1.12.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/slf4j-api-1.7.22.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/slf4j-log4j12-1.7.22.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
